@@ -1,0 +1,29 @@
+#outside {
+    border: darkcyan solid 8px; 
+    background-color: darkcyan;
+}
+.container {
+    padding-left: 0; padding-right: 0;
+    
+}
+
+form {
+    padding-left: 5%; padding-right: 5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(2, 168, 127);
+}
+.navbar-nav {
+    margin: 0;
+    padding-left: 0; padding-right: 0;
+    background-color: #e0e0e0;
+}
+
+.fontcolor {
+    color: white;
+}
+
+p.fontcolor {
+    line-height: 30px;
+    padding: auto auto;
+    margin-top: 45%;
+}
